@@ -1,8 +1,6 @@
 /* 
- *  Name: Aaron Crum
- *  CSU ID: 2698195 
- *  CIS 265: Lab 6
- *  Description: Write a program that prompts the user to enter an integer for today’s day of the week (Sunday is 0, Monday is 1, . . . , and Saturday is 6). Also prompt the user to enter the number of days after today for a future day and display the future day of the week.
+ *  Description: A program that prompts the user to enter an integer for todayâ€™s day of the week (Sunday is 0, Monday is 1, . . . , and Saturday is 6)
+ *  Also prompts the user to enter the number of days after today for a future day and displays the future day of the week
 */
 
 import java.util.Scanner;
